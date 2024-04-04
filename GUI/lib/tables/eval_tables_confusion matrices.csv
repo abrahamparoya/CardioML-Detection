@@ -1,0 +1,15 @@
+predictor,,DNN,DNN
+predicted label,,not present,present
+diagnosis,true label,,
+1dAVb,not present,794,5
+1dAVb,present,16,12
+AF,not present,0,790
+AF,present,0,37
+LBBB,not present,795,2
+LBBB,present,4,26
+RBBB,not present,779,14
+RBBB,present,2,32
+SB,not present,803,8
+SB,present,1,15
+ST,not present,0,814
+ST,present,0,13
